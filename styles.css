@@ -1,0 +1,182 @@
+.web-banner {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .web-banner .overlap-wrapper {
+    background-color: #ffffff;
+    height: 1080px;
+    width: 1920px;
+  }
+  
+  .web-banner .overlap {
+    background-image: url(./mian-bg.png);
+    background-size: 100% 100%;
+    height: 1080px;
+    position: relative;
+  }
+  
+  .web-banner .overlap-group {
+    height: 1080px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .web-banner .right-bg {
+    height: 1080px;
+    left: 1110px;
+    position: absolute;
+    top: 0;
+    width: 810px;
+  }
+  
+  .web-banner .air-jordan-retro {
+    height: 331px;
+    left: 0;
+    position: absolute;
+    top: 397px;
+    width: 1920px;
+  }
+  
+  .web-banner .header {
+    background-color: transparent;
+    height: 54px;
+    left: 50px;
+    position: absolute;
+    top: 50px;
+    width: 1822px;
+  }
+  
+  .web-banner .UIUX-GURUJI {
+    height: 43px;
+    left: 1px;
+    position: absolute;
+    top: 6px;
+    width: 85px;
+  }
+  
+  .web-banner .menu {
+    height: 13px;
+    left: 1780px;
+    position: absolute;
+    top: 21px;
+    width: 40px;
+  }
+  
+  .web-banner .text {
+    height: 407px;
+    left: 152px;
+    position: absolute;
+    top: 476px;
+    width: 580px;
+  }
+  
+  .web-banner .stars {
+    height: 32px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 204px;
+  }
+  
+  .web-banner .originally-released {
+    color: #ffffff;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0.44px;
+    line-height: 36px;
+    position: absolute;
+    top: 62px;
+    width: 576px;
+  }
+  
+  .web-banner .text-wrapper {
+    color: #ffffff;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-size: 40px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0.8px;
+    line-height: normal;
+    position: absolute;
+    top: 272px;
+  }
+  
+  .web-banner .btn {
+    all: unset;
+    box-sizing: border-box;
+    height: 56px;
+    left: 0;
+    position: absolute;
+    top: 351px;
+    width: 212px;
+  }
+  
+  .web-banner .add-to-cart-wrapper {
+    background-color: #ec3565;
+    border: 1px solid;
+    border-color: #000000;
+    border-radius: 100px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 56px;
+    position: relative;
+    width: 210px;
+  }
+  
+  .web-banner .add-to-cart {
+    color: transparent;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 30px;
+    letter-spacing: 0.4px;
+    line-height: normal;
+    position: absolute;
+    top: 15px;
+    white-space: nowrap;
+  }
+  
+  .web-banner .span {
+    color: #ffffff;
+    letter-spacing: 0.08px;
+  }
+  
+  .web-banner .watch {
+    height: 90px;
+    left: 1603px;
+    position: absolute;
+    top: 930px;
+    width: 272px;
+  }
+  
+  .web-banner .bi-arrow-right {
+    height: 40px;
+    left: 1830px;
+    position: absolute;
+    top: 520px;
+    width: 40px;
+  }
+  
+  .web-banner .image {
+    height: 1044px;
+    left: 591px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1175px;
+  }
+  
+  .web-banner .social-icon {
+    height: 28px;
+    left: 152px;
+    position: absolute;
+    top: 992px;
+    width: 240px;
+  }
